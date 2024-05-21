@@ -1,6 +1,6 @@
 # Required: Device codename
-DEVICE="vince"
-ROM_NAME="RiceDroid"
+DEVICE="galaxysmtd"
+ROM_NAME="aosp"
 
 # Required: git username
 GIT_NAME="ROMBUILDER"
